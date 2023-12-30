@@ -6,6 +6,13 @@ Go to a desired folder
 ```bash
 cd College/C
 ```
-Ensure git is properly installed 
 ```bash
 git clone git@github.com:louislin9603/Basic-Linux-Shell.git
+cd .\Basic-Linux-Shell\
+gcc -g -o simpsh simpsh.c
+```
+
+Running
+```bash
+./simpsh
+
